@@ -9,6 +9,7 @@
   "author": "azu",
   "license": "MIT",
   "dependencies": {
+    "textlint-rule-max-comma": "^1.0.1",
     "textlint-rule-sentence-length": "^1.0.4"
   }
 }
