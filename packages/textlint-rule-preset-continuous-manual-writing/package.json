@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "textlint-rule-max-comma": "^1.0.1",
+    "textlint-rule-max-ten": "^2.0.1",
     "textlint-rule-sentence-length": "^1.0.4"
   }
 }
