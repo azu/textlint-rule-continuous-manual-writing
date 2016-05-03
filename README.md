@@ -44,6 +44,8 @@
 | [過剰に丁寧な表現を使用しない][]                                   |                                                 |                                                  |
 | [弱い表現を使用しない][]                                           |                                                 |                                                  |
 | [冗長な表現を使用しない][]                                         |                                                 |                                                  |
+
+
 ### シンボルに関する規約
 
 [句読点は”。”と”、”を使用する][]
@@ -83,8 +85,8 @@ MIT
 [一部の漢字についてはひらがな書きを使用する]: https://github.com/continuous-manual-writing/book-source/blob/master/js/unsuggested-kanji.js
 [同じ表現から文を開始しすぎない]: https://github.com/continuous-manual-writing/book-source/blob/master/redpen-conf.xml#L29
 [感嘆符、疑問符を使用しない]: https://github.com/continuous-manual-writing/book-source/blob/master/js/japanese_emotional_sentence.js
-[章や節の参照には、半角アラビア数字（"第2章"、"第3節"）を使用する]: https://github.com/continuous-manual-writing/book-source/blob/master/js/japanese_anchor_expression.js
-[数字のカウントには半角アラビア数字を含むスタイル（"1つ"、"2つ"）を使用する]: https://github.com/continuous-manual-writing/book-source/blob/master/js/japanese_number_expression.js
+[章や節の参照には半角アラビア数字（"第2章"、"第3節"）を使用する]: https://github.com/continuous-manual-writing/book-source/blob/master/js/japanese_anchor_expression.js
+[数字のカウントには半角アラビア数字（"1つ"、"2つ"）を使用する]: https://github.com/continuous-manual-writing/book-source/blob/master/js/japanese_number_expression.js
 [漢字連続は最大で5つまで]: https://github.com/continuous-manual-writing/book-source/blob/master/js/long_kanji_chain.js
 [半角カナを使用しない]: https://github.com/continuous-manual-writing/book-source/blob/master/js/japanese_invalid_kana.js
 [アルファベット単語の前後にはスペースを入れない]: https://github.com/continuous-manual-writing/book-source/blob/master/js/space_with_latin_word.js
