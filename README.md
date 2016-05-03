@@ -15,11 +15,12 @@
 
 ### 文長に関する規約
 
-| RedPen                   | textlint                                              |
-|--------------------------|-------------------------------------------------------|
-| [文長は90文字以下とする]   | [textlint-rule-sentence-length]                       |
-| [コンマは1文中に4つまで]   | [textlint-rule-max-ten]                               |
-|                          | [textlint-rule-max-comma]                             |
+| RedPen                   | textlint                        | 補足        |
+|--------------------------|---------------------------------|-------------|
+| [文長は90文字以下とする] | [textlint-rule-sentence-length] |             |
+| [コンマは1文中に4つまで] | [textlint-rule-max-ten]         | 読点（、）  |
+|                          | [textlint-rule-max-comma]       | コンマ（,） |
+
 
 ### 表現に関する規約
 
