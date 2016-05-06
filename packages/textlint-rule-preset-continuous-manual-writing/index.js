@@ -11,6 +11,7 @@ module.exports = {
         "no-start-duplicated-conjunction": require("textlint-rule-no-start-duplicated-conjunction"),
         "no-doubled-conjunction": require("textlint-rule-no-doubled-conjunction"),
         "no-dropping-the-ra": require("textlint-rule-no-dropping-the-ra"),
+        "no-exclamation-question-mark": require("textlint-rule-no-exclamation-question-mark"),
         "arabic-kanji-numbers": jtfRules["2.2.2.算用数字と漢数字の使い分け"],
         "prefer-fullwidth-katakana": jtfRules["2.1.5.カタカナ"],
         "no-space-between-halfwidth-characters": jtfRules["3.1.1.全角文字と半角文字の間"]
@@ -39,7 +40,9 @@ module.exports = {
             "interval": 2
         },
         // - 同じ接続詞を連続させない
-        "no-doubled-conjunction": true
+        "no-doubled-conjunction": true,
+        // 感嘆符、疑問符を使用しない
+        "no-exclamation-question-mark": true
 
     }
 };
